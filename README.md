@@ -1,14 +1,12 @@
          ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+## What is it?
+A stacked chart 
+ 
+##What does it do?
+Represents parts of a whole for a group within a dimension 
+ 
+##How do you use it?
+Use a stacked chart to view and compare categories (clusters) of values for groups within a dimension. 
 
-
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+##Data Folder
+https://raw.githubusercontent.com/Code-Institute-Solutions/DataVisualisation/master/data/transactions.json
